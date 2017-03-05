@@ -1,0 +1,49 @@
+body {
+  background: linear-gradient(to bottom right, #ff9933 0%, #3399ff 100%);
+  padding-top: 50px;
+  /*padding-bottom: 10px;*/
+  position: relative;
+}
+
+#header {
+  padding: 50px, 50px, 50px, 50px;
+  height: 300px;
+  margin: 200px, 100px;
+  font-family: 'Playfair Display', serif;
+}
+
+#aboutMe {
+  padding: 100px, 150px, 100px, 150px;
+  height: 300px;
+  margin: 50px, 50px, 50px, 50px;
+  font-family: 'Playfair Display', serif;
+}
+
+#gallery {
+  padding: 200px, 50px, 100px, 50px;
+  height: 1200px;
+  font-family: 'Cardo', serif;
+  font-size: 25px;
+}
+
+#contact {
+  padding: 200px, 50px, 200px, 50px;
+  height: 150px;
+  font-family: 'Tangerine', cursive;
+  font-size: 30px;
+}
+
+#thumbnail {
+  padding: 200px, 150px, 200px, 150px;
+}
+
+h1 {
+  padding: 100px, 100px, 100px, 100px;
+  margin: 100px, 100px, 100px, 100px;
+}
+
+p {
+  padding: 100px, 100px, 100px, 100px;
+  margin: 100px, 100px, 100px, 100px;
+  text-align: justify;
+}

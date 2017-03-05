@@ -1,0 +1,42 @@
+body{
+  background: linear-gradient(to right, #ffffff 0%, #ff99ff 100%);
+}
+#title{
+  font-family: 'Rochester', cursive;
+}
+#quotes{
+  width: 50%;
+  border-color: white;
+  border-style: inset;
+  border-radius: 10px;
+  height: auto;
+  margin-bottom: 50px;
+}
+#quote{
+  font-family: 'Philosopher', sans-serif;
+  font-size: 50px;
+}
+#speaker{
+  font-family: 'Tangerine', cursive;
+  font-size: 40px;
+}
+#button{
+  padding: 10px;
+  font-family: 'Rochester', cursive;
+  color: blue;
+}
+#tweet{
+  padding: 10px;
+  font-family: 'Rochester', cursive;
+  color: blue;
+}
+#footer{
+  font-family: 'Times New Roman';
+  font-style: italic;
+  font-size: 20px;
+}
+/*
+font-family: 'Rochester', cursive;
+font-family: 'Philosopher', sans-serif;
+font-family: 'Tangerine', cursive;
+*/
